@@ -26,3 +26,69 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spin1234&show_icons=true&locale=en" alt="spin1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spin1234&" alt="spin1234" /></p>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .form-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        animation: form-slide-in 0.5s ease-out;
+      }
+
+      @keyframes form-slide-in {
+        from {
+          transform: translateY(-50px);
+          opacity: 0;
+        }
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+
+      input[type="text"],
+      input[type="email"],
+      textarea {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        border: none;
+        font-size: 16px;
+      }
+
+      input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="form-container">
+      <form>
+        <h2>Contact Form</h2>
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <textarea placeholder="Your Message" rows="5" required></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </body>
+</html>
