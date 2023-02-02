@@ -1,3 +1,4 @@
+# <img src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif" alt="banner" width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Sayak Pal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
