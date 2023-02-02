@@ -1,6 +1,6 @@
 # <img src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif" alt="banner" width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Sayak Pal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
