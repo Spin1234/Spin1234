@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, OOPS, HTML, PHP**
 
-- 📫 How to reach me **sayak5913@gmail.com**
+- 📫 How to reach me **https://syntaxnation.blogspot.com**
 
 
 <h3 align="left">Languages :</h3>
