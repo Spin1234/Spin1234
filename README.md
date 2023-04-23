@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react, AI and ML**
 
-- 👨‍💻 All of my projects are available at [https://sayakportfolio.netlify.app/](https://sayakportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sayakportfolio.netlify.app](https://sayakportfolio.netlify.app/)
 
 - 💬 Ask me about **C, OOPS, HTML, PHP**
 
