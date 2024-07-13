@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **react, AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://sayakportfolio.netlify.app](https://sayakportfolio.netlify.app/)
-- [https://spin1234.github.io/SayakPortfolio.github.io/]([https://sayakportfolio.netlify.app/](https://spin1234.github.io/SayakPortfolio.github.io/))
+- [https://spin1234.github.io/SayakPortfolio.github.io/](https://spin1234.github.io/SayakPortfolio.github.io/)
 
 - 💬 Ask me about **C, OOPS, HTML, PHP**
 
