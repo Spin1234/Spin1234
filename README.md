@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spin1234&label=Profile%20views&color=0e75b6&style=flat" alt="spin1234" /> </p>
 
-- 🌱 I’m currently learning **react, AI and ML**
+- 🌱 I’m currently learning <!--**react, AI and ML**-->
 
 - 👨‍💻 All of my projects are available at [https://spin1234.github.io/SayakPortfolio.github.io/](https://spin1234.github.io/SayakPortfolio.github.io/) 
  > [https://sayakportfolio.netlify.app](https://sayakportfolio.netlify.app/)
