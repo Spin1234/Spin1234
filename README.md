@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=6c09b952nw1wdqfqiqgqci7598dqhhy39lreth0ynvx7n5ja&rid=giphy.gif&ct=s" alt="bootstrap" width="100" height="100"/> </a>
 </p>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spin1234&show_icons=true&locale=en&layout=compact" alt="spin1234" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spin1234&show_icons=true&locale=en&layout=compact" alt="spin1234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spin1234&show_icons=true&locale=en" alt="spin1234" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spin1234&show_icons=true&locale=en" alt="spin1234" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spin1234&" alt="spin1234" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spin1234&" alt="spin1234" /></p>-->
 
