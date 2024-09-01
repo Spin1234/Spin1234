@@ -12,7 +12,7 @@
  > [https://sayakportfolio.netlify.app](https://sayakportfolio.netlify.app/)
   
 
-- 💬 Ask me about **C, OOPS, HTML, PHP**
+- 💬 Ask me about **C/C++, OOPS(Java), Oracle/SQL, Web dev**
 
 <!-- - 📫 How to reach me **https://syntaxnation.blogspot.com** -->
 
